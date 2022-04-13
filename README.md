@@ -1,6 +1,6 @@
 # Heroku aria2c (Sync upto 5 drives modification)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/tonmoyislam250/torrential21)
 
 > Do not overuse it, or your account might be banned by Heroku.
 
